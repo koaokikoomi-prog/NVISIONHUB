@@ -7,7 +7,7 @@ local UserInputService = game:GetService("UserInputService")
 
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KaterHub-Inc/scripts/refs/heads/main/modules/UiEngineV2.lua"))()
 
-local t3 = { name = "NVISION KifeOrzZ" }
+local t3 = { name = "NVISION KnifeOrzZ" }
 
 -- Window
 local Window = lib:AddWindow(tostring(t3.name), {
